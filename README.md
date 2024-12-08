@@ -42,7 +42,7 @@ Despues de descargar el proyecto, copie y pegue el archivo `notify.css` en la ca
 
 #### Cómo uso notifyJS en mi proyecto?
 
-Para usar **`notifyJS`** importe la clase `AlertModel` y cree una variable para instanciarla, el uso y ejemplos se muestran a continuación:
+Para usar **`notifyJS`** importe la clase `NotifyModel` y cree una variable para instanciarla, el uso y ejemplos se muestran a continuación:
 
 
 ## Usos/Ejemplos
