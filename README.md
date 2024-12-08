@@ -25,7 +25,7 @@ Este proyecto está licenciado bajo [DaveLkLK]
 Descargue el proyecto:
 
 ```bash
-  git clone <url-server>
+  git clone <https://github.com/DaveLkLk/NotifyJS.git>
 ```
 
 Necesitará solo los archivos:
