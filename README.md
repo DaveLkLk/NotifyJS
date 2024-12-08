@@ -10,6 +10,8 @@ NotifyJS es una librería para crear notificaciones en el DOM donde cada una es 
 
 - [@davidLkLk](https://github.com/daveLkLk)
 
+## License
+Este proyecto está licenciado bajo [DaveLkLK]
 
 ## Features
 
